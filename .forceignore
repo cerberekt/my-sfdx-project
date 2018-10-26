@@ -3,3 +3,5 @@
 #
 
 package.xml
+# ignore dreamhouse specific permission set when syncing with scratch orgs
+dreamhouse.permissionset
